@@ -1,0 +1,83 @@
+State,City,GDP (crore),Literacy Rate (%),Internet Users (million),Road Length (km),Railway Route Length (km)
+Andhra Pradesh,Kakinada,23393.4,61.61,1.16,1154.82,1902.63
+Andhra Pradesh,Guntur,25073.64,62.66,3.94,2112.75,444.33
+Andhra Pradesh,Nellore,12124.04,89.32,7.56,2280.02,1046.0
+Andhra Pradesh,Tirupati,30486.88,65.54,6.8,1261.36,736.44
+Andhra Pradesh,Vijayawada,35994.6,85.37,7.64,2556.43,712.29
+Andhra Pradesh,Visakhapatnam,33847.47,91.8,6.09,4612.32,1207.13
+Assam,Siliguri,31884.03,59.59,2.95,3692.08,1981.55
+Bihar,Muzaffarpur,31331.62,56.92,4.47,3542.44,1984.73
+Bihar,Patna,32239.92,89.96,8.55,4326.64,1299.77
+Chandigarh,Chandigarh,12549.3,60.77,5.0,2878.68,1640.16
+Chhattisgarh,Raipur,6276.59,76.88,6.89,2182.03,1854.94
+Gujarat,Bhavnagar,43787.0,63.33,0.52,3062.25,679.22
+Gujarat,Jamnagar,42112.2,84.99,1.91,2797.43,1484.67
+Gujarat,Rajkot,38024.93,99.88,2.51,4990.17,368.46
+Gujarat,Surat,41447.99,92.68,3.39,521.32,306.87
+Gujarat,Vadodara,28932.72,51.76,3.54,2442.61,367.75
+Haryana,Faridabad,33158.86,59.17,8.91,1732.02,403.24
+Haryana,Gurgaon,44274.68,57.37,3.74,4213.61,677.26
+Haryana,Hisar,25123.31,77.64,3.35,3181.8,910.89
+Haryana,Karnal,31745.31,85.52,6.14,1591.14,1543.26
+Haryana,Panipat,9764.74,57.8,6.69,1241.11,1044.94
+Jharkhand,Dhanbad,17847.33,52.04,1.87,4256.67,472.13
+Jharkhand,Ranchi,40219.77,77.27,8.89,4587.44,417.59
+Karnataka,Belgaum,35836.35,84.44,9.47,2389.53,731.37
+Karnataka,Davangere,6003.7,65.63,3.29,4806.83,1890.47
+Karnataka,Gulbarga,17896.64,55.28,6.02,2338.28,1567.3
+Karnataka,Hubli-Dharwad,48630.4,73.19,4.57,1277.57,303.26
+Karnataka,Mangalore,36623.7,67.74,7.61,4730.28,800.85
+Karnataka,Mysore,8706.5,78.35,5.74,3807.08,653.23
+Kerala,Kochi,14301.52,75.65,8.3,2920.42,1678.92
+Kerala,Kollam,5428.36,64.21,3.36,2901.49,664.96
+Kerala,Kozhikode,46883.64,57.61,2.8,2785.3,1725.62
+Kerala,Thrissur,37098.54,96.78,3.2,3439.87,748.31
+Kerala,Trivandrum,43890.6,99.15,2.3,2949.32,976.69
+Madhya Pradesh,Bhopal,45900.68,93.91,9.23,4419.49,936.79
+Madhya Pradesh,Gwalior,28257.94,67.55,3.71,3806.37,1276.58
+Madhya Pradesh,Indore,23774.13,51.26,4.22,2609.08,1721.06
+Madhya Pradesh,Jabalpur,8695.01,74.83,6.42,4363.49,1821.28
+Madhya Pradesh,Ujjain,44228.16,78.15,4.35,573.72,1483.25
+Maharashtra,Amravati,39098.54,53.5,4.14,4538.21,746.84
+Maharashtra,Aurangabad,13646.43,69.92,9.95,1820.61,1013.9
+Maharashtra,Kolhapur,43682.15,79.05,1.9,4777.27,734.55
+Maharashtra,Nanded,42555.19,64.56,4.45,2650.08,221.86
+Maharashtra,Nashik,29518.24,62.37,4.26,2421.57,661.84
+Maharashtra,Pune,41641.66,51.63,8.62,2149.09,604.83
+Maharashtra,Solapur,6655.29,93.43,6.91,3690.52,259.2
+Odisha,Bhubaneswar,13654.33,81.73,5.42,3087.42,1505.27
+Odisha,Cuttack,24537.94,69.26,5.29,552.73,244.29
+Odisha,Rourkela,34568.96,89.78,7.26,3821.58,1543.48
+Punjab,Amritsar,24333.51,52.34,9.08,4119.75,1401.56
+Punjab,Jalandhar,30113.66,80.14,7.71,4028.57,1951.77
+Punjab,Ludhiana,24144.99,62.36,3.96,832.41,1013.74
+Punjab,Patiala,15551.9,65.96,2.52,2606.56,721.64
+Rajasthan,Bikaner,14935.97,95.08,0.51,4631.28,1452.86
+Rajasthan,Jodhpur,31692.65,85.67,2.78,1381.51,1317.22
+Rajasthan,Kota,38870.6,64.03,4.05,3996.66,771.65
+Rajasthan,Udaipur,24912.34,65.94,9.12,1259.62,1903.92
+Tamil Nadu,Coimbatore,14948.65,51.59,4.0,4046.07,645.9
+Tamil Nadu,Madurai,23396.82,97.78,1.37,1953.56,810.73
+Tamil Nadu,Salem,21048.38,92.49,3.01,4217.15,1621.18
+Tamil Nadu,Tiruchirappalli,39662.21,50.9,6.62,902.13,750.3
+Tamil Nadu,Tiruppur,23305.85,63.39,1.18,2494.9,1241.29
+Telangana,Hyderabad,16827.63,55.38,9.1,952.98,826.18
+Telangana,Karimnagar,28789.45,51.43,9.57,1638.51,1221.6
+Telangana,Khammam,46719.36,67.54,3.73,1778.26,413.58
+Telangana,Warangal,29480.62,87.98,3.85,3593.96,1853.07
+Uttar Pradesh,Agra,19744.76,88.6,0.69,3626.37,1068.06
+Uttar Pradesh,Aligarh,26357.2,60.79,1.9,1549.33,937.41
+Uttar Pradesh,Allahabad,5198.42,67.45,6.48,1377.27,1456.85
+Uttar Pradesh,Bareilly,19159.09,57.18,3.43,3189.54,815.67
+Uttar Pradesh,Ghaziabad,6386.19,88.76,4.9,1509.95,1594.13
+Uttar Pradesh,Gorakhpur,46400.28,88.99,4.7,1218.68,464.28
+Uttar Pradesh,Kanpur,26681.57,75.73,8.44,2966.66,1891.67
+Uttar Pradesh,Lucknow,25511.55,75.54,5.47,3283.62,1053.61
+Uttar Pradesh,Meerut,25063.83,61.09,9.47,587.35,783.25
+Uttar Pradesh,Varanasi,18439.84,95.86,8.97,4119.07,588.34
+Uttarakhand,Dehradun,18130.6,53.16,6.37,833.63,791.75
+West Bengal,Asansol,36972.42,88.27,1.03,1602.65,562.89
+West Bengal,Durgapur,43392.51,73.2,2.59,1493.83,335.22
+West Bengal,Howrah,44596.56,88.74,2.25,1709.98,1720.77
+West Bengal,Kolkata,14495.28,74.44,6.66,1963.12,1447.24
+West Bengal,Siliguri,39221.42,75.07,9.06,2531.6,1957.32

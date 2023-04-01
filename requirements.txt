@@ -1,0 +1,10 @@
+matplotlib==3.5.3
+scikit_learn==1.2.1
+streamlit==1.18.1
+
+scipy
+
+plotly==5.13.0
+ply==3.11
+pandas
+numpy
